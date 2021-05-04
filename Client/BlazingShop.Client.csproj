@@ -14,4 +14,8 @@
     <ProjectReference Include="..\Shared\BlazingShop.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
